@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Chinese chess: Xiangqi champion suspended for bad behaviour",
+      "description": "Yan Chenglong is stripped of his title after drinking in his hotel room and defecating in a bathtub.",
+      "url": "https://www.bbc.co.uk/news/world-asia-china-67822137",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3D12/production/_132143651_gettyimages-1245778825.jpg",
+      "publishedAt": "2023-12-26T14:07:15.0166554Z",
+      "content": "The winner of a Xiangqi, or Chinese chess, tournament has been stripped of his title after allegations of inappropriate behaviour. \r\nYan Chenglong has also been accused of cheating by using a communi… [+1288 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Daihatsu pauses production over safety scandal",
+      "description": "The Japanese carmaker admitted it had falsified safety tests for many of its vehicles.",
+      "url": "https://www.bbc.co.uk/news/business-67822887",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/72FA/production/_132143492_daihatsulogo.jpg",
+      "publishedAt": "2023-12-26T13:37:14.3767836Z",
+      "content": "Toyota-owned carmaker Daihatsu has closed all four of its plants until the end of January, after admitting it had falsified safety tests.\r\nDaihatsu admitted that it had been manipulating safety tests… [+2416 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Unaccompanied boy, 6, put on wrong US flight",
+      "description": "Casper was meant to be flying to Fort Myers, Florida, to meet his grandmother but ended up 160 miles away.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-67821959",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13B54/production/_132142708_e814cd79-86e6-456c-86a4-52c3a05c5f85.jpg",
+      "publishedAt": "2023-12-26T12:37:22.4852954Z",
+      "content": "A six-year-old boy flew alone to the wrong US city after he was \"incorrectly boarded\" on a Spirit Airlines plane. \r\nCasper was travelling from Philadelphia to meet his grandmother in Fort Myers, Flor… [+1986 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "US hits Iran-backed militias in Iraq after attack",
+      "description": "The US says the \"necessary and proportionate\" strikes came after a drone attack on a US airbase.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67819124",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8222/production/_132141333_iraqgettyimages-1819880211.jpg",
+      "publishedAt": "2023-12-26T12:37:21.0637736Z",
+      "content": "The US military has attacked Iranian-backed militant groups in Iraq, hours after US personnel were injured in a drone strike on a US airbase there. \r\nThe US defence chief said three sites used by Kat… [+1562 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Eurovision to Indiana Jones: 15 flops and fails in culture in 2023",
+      "description": "From Eurovision failure to box office bombs, these moments were among the year's most unfortunate.",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-64315561",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14A09/production/_132098448_indgettyimages-1491467124-1.jpg",
+      "publishedAt": "2023-12-26T08:22:21.2204475Z",
+      "content": "Celebrities provide a vital public service throughout the year by keeping us all entertained - even if it isn't always on purpose. \r\nIn a world where the news is so often depressing, here's a light-h… [+10854 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Hanif Kureishi: I've become a reluctant dictator",
+      "description": "The novelist on how his sudden paralysis has affected his relationships and writing, one year on.",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-67787423",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/140BF/production/_132111128_hanif1.jpg",
+      "publishedAt": "2023-12-26T08:22:20.0176241Z",
+      "content": "Novelist Hanif Kureishi sustained life-changing injuries when he collapsed and landed on his head on Boxing Day last year.\r\nLeft without the use of his arms and legs, the award-winning writer of The … [+8589 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Russia confirms damage to warship in Black Sea",
+      "description": "Russia confirms damage to warship after Ukraine's air force says it destroyed a landing ship in a Crimean port.",
+      "url": "https://www.bbc.co.uk/news/world-europe-67821515",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2023-12-26T07:07:13.2985879Z",
+      "content": "Russia confirms damage to warship after Ukraine's air force said it had destroyed a landing ship in the Black Sea"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Bodies of five people found in flat in Paris suburb of Meaux",
+      "description": "Prosecutors launch a homicide investigation into the five deaths in the small town of Meaux.",
+      "url": "https://www.bbc.co.uk/news/world-europe-67821163",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1288A/production/_132141957_gettyimages-1186596514.jpg",
+      "publishedAt": "2023-12-26T02:52:13.391505Z",
+      "content": "Prosecutors in France have launched a homicide investigation after five bodies were found in a town north-east of Paris.\r\nAccording to local media reports, the victims are a woman and her four young … [+491 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine denies Russian capture of key town near Donetsk",
+      "description": "The completely destroyed town of Mariinka is seen as a gateway to the Russian-held city of Donetsk.",
+      "url": "https://www.bbc.co.uk/news/world-europe-67820916",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/60EE/production/_132141842_soldiersap.jpg",
+      "publishedAt": "2023-12-26T01:52:13.3137635Z",
+      "content": "Russian Defence Minister Sergei Shoigu has said his troops have seized the key town of Mariinka in eastern Ukraine - a claim immediately denied by Kyiv.\r\nMr Shoigu told President Vladimir Putin assau… [+2829 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Israel Gaza war: UN says no let-up in Israeli air strikes in Gaza",
+      "description": "A UN official speaks of \"absolute carnage\" after visiting a hospital with many injured in central Gaza.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67820866",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/127C2/production/_132141757_gaza_getty.jpg",
+      "publishedAt": "2023-12-25T23:52:12.0415833Z",
+      "content": "There is no let-up in Israeli air strikes in Gaza, a UN official has told the BBC, after visiting a hospital struggling to treat the injured.\r\nGemma Connell of the UN humanitarian agency OCHA told th… [+3450 chars]"
+    }
+  ]
+}
